@@ -1,6 +1,6 @@
 # Siamese-NN-ML
 This repository contains a jupyter notebook Siamese.ipynb for the training and testing og Siamese Neural Network on Stanford Dogs Dataset
-The code manages a dataset of dog images from the Stanford Dogs Dataset. It involves several key components:
+The code manages a dataset of dog images from the [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/) It involves several key components:
 
 1.  Data Preparation and Organization: The dataset is organized into folders based on different dog breeds. Images are randomly sampled from each breed folder to create pairs of similar and dissimilar images for training a Siamese network.
 
